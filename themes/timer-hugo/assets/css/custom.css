@@ -1,0 +1,39 @@
+
+.cd-headline.slide .cd-words-wrapper {
+    color: #0d47a1;
+  }
+
+.navbar .nav-item .nav-link:hover {
+    background-color: #ffc107;
+    color: black !important;
+    padding-right: 16px;
+    padding-left: 16px;
+  }
+
+  .navbar .nav-item {
+    padding-right: 16px;
+    padding-left: 16px;
+  }
+
+.hvr-bounce-to-right:before {
+    background-color: #ffc107;
+    color: black;
+}
+
+#hero-area .btn {
+    background-color: #0d47a1;
+}
+
+
+
+@font-face {
+    font-family: "komikatitle";
+    font-weight: 400;
+    font-style: normal;
+    src: url(../fonts/KomikaTitle-aDJ.ttf) format('truetype');
+  } 
+
+.cd-headline.title {
+    font-family: "komikatitle";
+    font-size: 3.5em !important; 
+}

@@ -15,14 +15,6 @@ name    = "About"
 url     = "about"
 weight  = 2
 [[menu.main]]
-name    = "Service"
-url     = "service"
-weight  = 3
-[[menu.main]]
-name    = "Gallery"
-url     = "gallery"
-weight  = 4
-[[menu.main]]
 name    = "Blog"
 url     = "blog"
 weight  = 5
@@ -37,8 +29,8 @@ home = "Home"
 logo = "images/logo.png"
 dateFormat = "6 January 2006"
 # Meta data
-description = "Airspace Hugo theme"
-author = "Themefisher"
+description = "Jazz Forge landing page"
+author = "Víctor Morilla"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # contact form action
@@ -48,11 +40,11 @@ contactFormAction = "#" # contact form works with https://formspree.io
 [params.banner]
 enable  = true
 bgImage = "images/slider.jpg"
-heading = "HI, MY NAME IS JONATHON & I AM A"
-description = "WITH 10 YEARS EXPERIENCE, I'VE OCCUPIED MANY ROLES INCLUDING DIGITAL DESIGN DIRECTOR, WEB DESIGNER AND DEVELOPER. THIS SITE SHOWCASES SOME OF MY WORK."
+heading = "JaZz Forge"
+description = "The tool to help you develop your improvisation skills. And it is completely free!"
 # button
 btn     = true
-btnText = "Download More"
+btnText = "GET STARTED"
 btnURL  = "https://themefisher.com/"
 
 # flip text
