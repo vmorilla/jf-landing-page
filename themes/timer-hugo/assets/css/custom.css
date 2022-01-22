@@ -1,6 +1,6 @@
 
 .cd-headline.slide .cd-words-wrapper {
-    color: #0d47a1;
+    color: black;
   }
 
 .navbar .nav-item .nav-link:hover {
@@ -17,23 +17,28 @@
 
 .hvr-bounce-to-right:before {
     background-color: #ffc107;
-    color: black;
+    color: black !important;
 }
 
 #hero-area .btn {
     background-color: #0d47a1;
 }
 
+.cd-headline.title {
+  font-family: "komikaps";
+  font-size: 4em !important; 
+  text-transform: none !important;
+  color: #0d47a1 !important;
+}
 
+img {
+  max-width:100%;
+}
 
 @font-face {
-    font-family: "komikatitle";
+    font-family: "komikaps";
     font-weight: 400;
     font-style: normal;
-    src: url(../fonts/KomikaTitle-aDJ.ttf) format('truetype');
+    src: url(../fonts/KomikaTitleKaps.ttf) format('truetype');
   } 
 
-.cd-headline.title {
-    font-family: "komikatitle";
-    font-size: 3.5em !important; 
-}
