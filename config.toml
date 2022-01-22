@@ -7,24 +7,30 @@ theme = "timer-hugo"
 
 # Navbar Menus
 [[menu.main]]
-name    = "Mi casa"
+name    = "Home"
 url     = "/"
 weight  = 1
 [[menu.main]]
-name    = "About"
-url     = "about"
+name    = "Forums"
+url     = "forums"
 weight  = 2
+disabled = true
 [[menu.main]]
 name    = "Blog"
 url     = "blog"
-weight  = 5
+weight  = 3
 [[menu.main]]
 name    = "Contact"
 url     = "contact"
-weight  = 6
+weight  = 4
+[[menu.main]]
+name    = "About"
+url     = "about"
+weight  = 5
 
 # Site Params
 [params]
+name = "JaZz Forge"
 home = "Home"
 logo = "images/logo.png"
 dateFormat = "6 January 2006"
@@ -39,9 +45,9 @@ contactFormAction = "#" # contact form works with https://formspree.io
 # Banner Section
 [params.banner]
 enable  = true
-bgImage = "images/slider.jpg"
-heading = "JaZz Forge"
-description = "The tool to help you develop your improvisation skills. And it is completely free!"
+bgImage = "images/collage.png"
+heading = "Become a better player"
+description = "JaZz Forge helps you develop your improvisation skills. And it is completely free!"
 # button
 btn     = true
 btnText = "GET STARTED"

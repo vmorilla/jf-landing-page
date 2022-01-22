@@ -1,7 +1,12 @@
+.navbar-brand {
+  font-family: "komikaps";
+  color: #0d47a1 !important;
+  font-size: 2.5em;
+}
 
-.cd-headline.slide .cd-words-wrapper {
-    color: black;
-  }
+.top-bar {
+  padding: 0px 0px 0px 0px !important;
+}
 
 .navbar .nav-item .nav-link:hover {
     background-color: #ffc107;
@@ -24,15 +29,29 @@
     background-color: #0d47a1;
 }
 
-.cd-headline.title {
-  font-family: "komikaps";
-  font-size: 4em !important; 
-  text-transform: none !important;
-  color: #0d47a1 !important;
+.cd-headline.slide .cd-words-wrapper {
+  color: #0d47a1;
 }
 
-img {
+
+#hero-area {
+  top: 20px !important;
+}
+
+
+ #hero-area .cd-headline {
+  font-size: 2em !important;
+}
+
+
+#hero-area img {
+  position: relative;
+  bottom: 25px;
   max-width:100%;
+}
+
+#hero-area h2  {
+  color: black !important;
 }
 
 @font-face {
