@@ -69,13 +69,29 @@
 /* Commented gifs */
 
 figure figcaption h4 a {
-  /*color: #a10d0d;*/
   color: rgb(54, 127, 196);
 }
 
 a:hover {
   color: #0d47a1;
 }
-/* figure figcaption h4 a {
-  color: #0d47a1 !important;
-} */
+
+/* Features icons */
+#feature .icon {
+  background-color: rgb(54, 127, 196);
+  text-shadow: none;
+}
+
+#feature i {
+  color: white;
+}
+
+/* Call to action */
+#call-to-action {
+  background-color: rgb(54, 127, 196);
+}
+
+i {
+  color: #0d47a1;
+
+}

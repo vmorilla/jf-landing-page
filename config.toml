@@ -93,7 +93,11 @@ icon = "ion-social-instagram"
 url = "#"
 
 [[params.socialIcon]]
-icon = "ion-social-linkedin"
+icon = "ion-social-youtube"
+url = "#"
+
+[[params.socialIcon]]
+icon = "ion-social-twitter"
 url = "#"
 
 [markup.goldmark.renderer]
