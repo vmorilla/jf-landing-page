@@ -1,15 +1,11 @@
 ---
-title: "Table Design"
-type: portfolio
-date: 2018-07-12T16:56:54+06:00
+title: "Choose the area of your fretboard"
+type: instructions
+date: 2018-07-12T16:53:54+06:00
 description : "This is meta description"
-caption: 3D Model Design
-image: images/portfolio/item-3.jpg
-category: ["3d-model","product"]
-liveLink: https://www.themefisher.com
-client: Julia Robertson
-submitDate: November 20, 2017
-location: 1201 park street, Avenue, Dhaka
+caption: Redesigns UI Concept
+image: images/instructions/item-1.jpg
+category: ["typography","letters"]
 ---
 ### Consectur in Bibendum
 
