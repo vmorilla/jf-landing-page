@@ -1,4 +1,4 @@
-baseURL = "http://jazzforge.com/"
+baseURL = "https://jazzforge.com/"
 languageCode = "en-us"
 title = "JaZz Forge | Learn and practise jazz improvisation"
 theme = "timer-hugo"
@@ -86,19 +86,19 @@ subtitle= "JaZz Forge is simple and intuitive to use. Get your job done in a few
 # social icon
 [[params.socialIcon]]
 icon = "ion-social-facebook"
-url = "#"
+url = "https://www.facebook.com/JazzForge-105334332054258/"
 
 [[params.socialIcon]]
 icon = "ion-social-instagram"
-url = "#"
+url = "https://www.instagram.com/jazzforge"
 
 [[params.socialIcon]]
 icon = "ion-social-youtube"
-url = "#"
+url = "https://www.youtube.com/channel/UCKpGHfHUzXC-O2AD-lakGSA"
 
 [[params.socialIcon]]
 icon = "ion-social-twitter"
-url = "#"
+url = "https://twitter.com/jazzforge"
 
 [markup.goldmark.renderer]
 hardWraps = true
