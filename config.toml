@@ -51,7 +51,7 @@ description = "JaZz Forge helps you develop your improvisation skills. And it is
 # button
 btn     = true
 btnText = "GET STARTED"
-btnURL  = "https://themefisher.com/"
+btnURL  = "https://app.jazzforge.com/"
 
 # flip text
 [[params.banner.flipText]]

@@ -52,11 +52,12 @@
 /*  Button in hero area */
 
 .hvr-bounce-to-right:before {
-  background-color: rgb(54, 127, 196);
+  background-color: #0d47a1;
+
 }
 
 #hero-area .btn {
-    background-color: #0d47a1;
+  background-color: rgb(54, 127, 196);
 }
 
 #hero-area img {
