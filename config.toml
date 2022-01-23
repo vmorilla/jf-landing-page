@@ -96,5 +96,5 @@ url = "#"
 icon = "ion-social-linkedin"
 url = "#"
 
-[[markup.goldmark.renderer]]
+[markup.goldmark.renderer]
 hardWraps = true
