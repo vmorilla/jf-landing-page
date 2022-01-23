@@ -72,10 +72,10 @@ image   = "images/about/about.png"
 # Call to Action
 [params.cta]
 enable  = true
-title   = "SO WHAT YOU THINK ?"
+title   = "What are you waiting for ?"
 content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
-btnText = "Contact with me"
-btnURL  = "/contact"
+btnText = "Start Now!"
+btnURL  = "https://app.jazzforge.com"
 
 # Portfolio Section On Homepage
 [params.instructions]
