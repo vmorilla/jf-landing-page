@@ -46,8 +46,8 @@ contactFormAction = "#" # contact form works with https://formspree.io
 [params.banner]
 enable  = true
 bgImage = "images/collage.png"
-heading = "Become a better player"
-description = "JaZz Forge helps you develop your improvisation skills. And it is completely free!"
+heading = "Become a better musician"
+description = "JaZz Forge helps you to develop your improvisation skills. And it is completely free!"
 # button
 btn     = true
 btnText = "GET STARTED"
@@ -65,14 +65,14 @@ title   = "SHARE"
 # Homepage About Section
 [params.about]
 enable  = true
-title   = "ABOUT ME"
-content = "Hello, I’m a UI/UX Designer & Front End Developer from Victoria, Australia. I hold a master degree of Web Design from the World University.And scrambled it to make a type specimen book. It has survived not only five centuries. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat. Temporibus, vero."
+title   = "About JaZz Forge"
+content = "..."
 image   = "images/about/about.png"
 
 # Call to Action
 [params.cta]
 enable  = true
-title   = "What are you waiting for ?"
+title   = "What are you waiting for?"
 content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
 btnText = "Start Now!"
 btnURL  = "https://app.jazzforge.com"
@@ -81,7 +81,7 @@ btnURL  = "https://app.jazzforge.com"
 [params.instructions]
 enable  = true
 title   = "Easy to use"
-subtitle= "JaZz Forge is simple and intuitive to use. Get your job done in a few minutes."
+subtitle= "JaZz Forge is simple and intuitive. Get your job done in a few minutes and spend your time practising with your instrument."
 
 # social icon
 [[params.socialIcon]]
