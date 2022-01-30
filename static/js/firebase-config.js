@@ -2,7 +2,7 @@
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
     apiKey: "AIzaSyCgkvmaPyd4dEEmWvrPQVpJmJC3rVzvx6E",
-    authDomain: "jazzforge.firebaseapp.com",
+    authDomain: "jazzforge.com",
     projectId: "jazzforge",
     storageBucket: "jazzforge.appspot.com",
     messagingSenderId: "307798556203",
