@@ -5,8 +5,8 @@ var uiConfig = {
     signInOptions: [
         {
             provider: firebase.auth.GoogleAuthProvider.PROVIDER_ID,
-            clientId: CLIENT_ID
-        
+            clientId: "307798556203-qtita9m9qi4qfjkivoj9kbn7r2bpks24.apps.googleusercontent.com"
+
         },
         firebase.auth.FacebookAuthProvider.PROVIDER_ID,
         {
@@ -16,6 +16,7 @@ var uiConfig = {
         },
         firebaseui.auth.AnonymousAuthProvider.PROVIDER_ID
     ],
+    credentialHelper: firebaseui.auth.CredentialHelper.GOOGLE_YOLO,
     // tosUrl and privacyPolicyUrl accept either url string or a callback
     // function.
     // Terms of service url/callback.
