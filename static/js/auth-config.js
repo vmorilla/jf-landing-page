@@ -1,7 +1,7 @@
 
 // FirebaseUI config.
 var uiConfig = {
-    signInSuccessUrl: "https://app.jazzforge.com",
+    signInSuccessUrl: "/app",
     signInOptions: [
         {
             provider: firebase.auth.GoogleAuthProvider.PROVIDER_ID,
