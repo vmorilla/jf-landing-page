@@ -51,7 +51,7 @@ description = "JaZz Forge helps you to develop your improvisation skills. And it
 # button
 btn     = true
 btnText = "GET STARTED"
-btnURL  = "https://app.jazzforge.com/"
+btnURL  = "https://jazzforge.com/app"
 
 # flip text
 [[params.banner.flipText]]
@@ -75,7 +75,7 @@ enable  = true
 title   = "What are you waiting for?"
 content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
 btnText = "Start Now!"
-btnURL  = "https://app.jazzforge.com"
+btnURL  = "https://jazzforge.com/app"
 
 # Portfolio Section On Homepage
 [params.instructions]
