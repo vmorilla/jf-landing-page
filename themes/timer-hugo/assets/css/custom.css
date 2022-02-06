@@ -36,12 +36,17 @@
 }
 
 #hero-area {
-  bottom: 20px !important;
+  /* height: 100vh; */
+  /* bottom: 20px !important; */
   background-size: cover;
 }
 
 .row {
   align-items: center;
+}
+
+#hero-area .slogan {
+  padding-top: 0;
 }
 
 #hero-area .cd-headline {

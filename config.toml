@@ -49,7 +49,7 @@ bgImage = "images/collage.png"
 heading = "Become a better musician"
 description = "JaZz Forge helps you to develop your improvisation skills. And it is completely free!"
 # button
-btn     = true
+btn     = false
 btnText = "GET STARTED"
 btnURL  = "https://jazzforge.com/app"
 
