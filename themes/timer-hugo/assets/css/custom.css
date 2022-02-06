@@ -53,6 +53,22 @@
   font-size: 2em !important;
 }
 
+#hero-area .welcome {
+  font-size: 1em !important;
+  /* text-transform: none; */
+  font-family: 'roboto';
+  /* color: #757575; */
+  font-weight: 300;
+}
+
+#hero-area .username {
+  font-weight: 500;
+}
+
+#hero-area strong {
+  font-weight: 500;
+}
+
 #hero-area h2  {
   color: black !important;
 }
