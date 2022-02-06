@@ -19,9 +19,7 @@
 								</span>
 							</h1>
 						</section>
-						{{ with .Content }}
-							<h2 class="wow fadeInUp animated" data-wow-delay=".6s">{{ . }}</h2>
-						{{ end }}
+						<h2 class="wow fadeInUp animated" data-wow-delay=".6s">{{ .Content }}</h2>
 						{{ if .Site.Params.banner.btn }}
 							<a class="btn-lines dark light wow fadeInUp animated btn btn-default btn-green hvr-bounce-to-right" data-wow-delay=".9s" href="{{ .Site.Params.banner.btnURL }}" target="_blank">{{
 						.Site.Params.banner.btnText
@@ -32,7 +30,7 @@
 				<div class="col-md-5 center">
 					<div
 						class="block wow fadeInRight" data-wow-delay=".3s" data-wow-duration="500ms" id="sign-in">{# {{ with .Site.Params.about.image }}<img src="{{ . | absURL }}" alt="about-image">
-																																																																												{{ end }} #}
+																																																																																			{{ end }} #}
 					</div>
 				</div>
 			</div>
