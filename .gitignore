@@ -4,3 +4,5 @@ firebase-debug.log
 public
 .firebase
 static/app
+static/js/signin.js
+static/css/signin.css
