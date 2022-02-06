@@ -36,7 +36,7 @@
 }
 
 #hero-area {
-  /* height: 100vh; */
+  height: 100vh;
   /* bottom: 20px !important; */
   background-size: cover;
 }
