@@ -1,6 +1,6 @@
 baseURL = "https://jazzforge.com/"
 languageCode = "en-us"
-title = "JaZz Forge | Learn and practise jazz improvisation"
+title = "Jazz Forge | Learn and practise jazz improvisation"
 theme = "timer-hugo"
 
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
@@ -47,7 +47,7 @@ contactFormAction = "#" # contact form works with https://formspree.io
 enable  = true
 bgImage = "images/collage.png"
 heading = "Become a better musician"
-description = "JaZz Forge helps you to develop your improvisation skills. And it is completely free!"
+description = "Jazz Forge helps you to develop your improvisation skills. And it is completely free!"
 # button
 btn     = false
 btnText = "GET STARTED"
@@ -65,7 +65,7 @@ title   = "SHARE"
 # Homepage About Section
 [params.about]
 enable  = true
-title   = "About JaZz Forge"
+title   = "About Jazz Forge"
 content = "..."
 image   = "images/about/about.png"
 
@@ -81,7 +81,7 @@ btnURL  = "https://jazzforge.com/app"
 [params.instructions]
 enable  = true
 title   = "Easy to use"
-subtitle= "JaZz Forge is simple and intuitive. Get your job done in a few minutes and spend your time practising with your instrument."
+subtitle= "Jazz Forge is simple and intuitive. Get your job done in a few minutes and spend your time practising with your instrument."
 
 # social icon
 [[params.socialIcon]]
