@@ -30,9 +30,9 @@ weight  = 5
 
 # Site Params
 [params]
-name = "JaZz Forge"
+name = "\u00AC Jazz Forge"
 home = "Home"
-logo = "images/logo.png"
+logo = "images/jazzforge.svg"
 dateFormat = "6 January 2006"
 # Meta data
 description = "Jazz Forge landing page"
