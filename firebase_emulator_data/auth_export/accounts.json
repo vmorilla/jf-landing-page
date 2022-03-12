@@ -1,0 +1,29 @@
+{
+    "kind": "identitytoolkit#DownloadAccountResponse",
+    "users": [
+        {
+            "localId": "0wOYzfTzcV6z0j8rNZzOojvT7yCO",
+            "createdAt": "1647110014323",
+            "lastLoginAt": "1647114967982",
+            "emailVerified": true,
+            "email": "debug@jazzforge.com",
+            "salt": "fakeSaltdgW33ZRclzMs5GQlF2RY",
+            "passwordHash": "fakeHash:salt=fakeSaltdgW33ZRclzMs5GQlF2RY:password=debug!",
+            "passwordUpdatedAt": 1647110014323,
+            "validSince": "1647110014",
+            "providerUserInfo": [
+                {
+                    "providerId": "password",
+                    "email": "debug@jazzforge.com",
+                    "federatedId": "debug@jazzforge.com",
+                    "rawId": "debug@jazzforge.com",
+                    "displayName": "Debug user",
+                    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Wes_Montgomery_%281967%29.jpg"
+                }
+            ],
+            "lastRefreshAt": "2022-03-12T19:56:07.982Z",
+            "displayName": "Debug user",
+            "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Wes_Montgomery_%281967%29.jpg"
+        }
+    ]
+}
