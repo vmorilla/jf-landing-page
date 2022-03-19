@@ -1,9 +1,8 @@
 .hugo_build.lock
 .DS_Store
-firebase-debug.log
 public
 .firebase
 static/app
 static/js/signin.js
 static/css/signin.css
-firebase-debug.log
+*.log
