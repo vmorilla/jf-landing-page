@@ -3,7 +3,14 @@ service cloud.firestore {
 
   match /databases/{database}/documents {
     match /users/{userID} {
-      allow read, write: if request.auth != null && request.auth.uid == userID && request.auth.token.email_verified; 
+      function isOwner() {
+        return request.auth != null && request.auth.uid == userID && request.auth.token.email_verified;
+      }
+      allow read, write: if isOwner(); 
+      match /scores/{document} {
+        allow read;
+        allow write: if isOwner();
+      }
     }
     match /{document=**} {
       allow read, write: if false;
