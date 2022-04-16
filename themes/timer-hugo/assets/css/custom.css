@@ -12,15 +12,15 @@
 }
 
 .navbar .nav-item .nav-link:hover {
-    background-color: #ffc107;
-    color: black !important;
-    padding-right: 16px;
-    padding-left: 16px;
-  }
+  background-color: #ffc107;
+  color: black !important;
+  padding-right: 16px;
+  padding-left: 16px;
+}
 
 .navbar .nav-item {
-    padding-right: 16px;
-    padding-left: 16px;
+  padding-right: 16px;
+  padding-left: 16px;
 }
 
 @font-face {
@@ -28,7 +28,7 @@
   font-weight: 400;
   font-style: normal;
   src: url(../fonts/KomikaTitleKaps.ttf) format('truetype');
-} 
+}
 
 /* Hero area */
 
@@ -70,7 +70,7 @@
   font-weight: 500;
 }
 
-#hero-area h2  {
+#hero-area h2 {
   color: black !important;
 }
 
@@ -88,7 +88,7 @@
 
 #hero-area img {
   position: relative;
-  max-width:100%;
+  max-width: 100%;
 }
 
 /* Commented gifs */
@@ -119,4 +119,13 @@ a:hover {
 i {
   color: #0d47a1;
 
+}
+
+/* Collage */
+#hero-area {
+  background: url(/images/collage.png) repeat center/100% fixed;
+  -webkit-background-size: repeat 50% fixed;
+  -moz-background-size: 100% auto contain;
+  -o-background-size: 100% auto contain;
+  background-size: contain;
 }
