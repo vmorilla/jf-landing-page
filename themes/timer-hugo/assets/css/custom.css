@@ -121,32 +121,7 @@ i {
 
 }
 
-
-/* Hero background image */
-img.bgxx {
-  /* Set rules to fill background */
-  min-height: 100%;
-  min-width: 1024px;
-
-  /* Set up proportionate scaling */
-  width: 100%;
-  height: auto;
-
-  /* Set up positioning */
-  position: fixed;
-  bottom: 0;
-  left: 0;
-}
-
-@media screen and (max-width: 1024px) {
-
-  img.bgxx {
-    left: 50%;
-    margin-left: -512px;
-    /* 50% */
-  }
-}
-
+/* Collage */
 #hero-area {
   background: url(/images/collage.png) repeat center/100% fixed;
   -webkit-background-size: repeat 50% fixed;
@@ -154,18 +129,3 @@ img.bgxx {
   -o-background-size: 100% auto contain;
   background-size: contain;
 }
-
-/* body:after {
-  content: " ";
-  position: fixed;
-  top: 0;
-  height: 100vh;
-  left: 0;
-  right: 0;
-  z-index: -1;
-  background: url(images/collage.png) center center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-} */
