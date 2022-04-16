@@ -1,12 +1,6 @@
 /* Navigation bar */
 
 
-.navbar-brand {
-  font-family: "komikaps";
-  color: #0d47a1 !important;
-  font-size: 2.5em;
-}
-
 .top-bar {
   padding: 0px 0px 0px 0px !important;
 }
@@ -21,13 +15,6 @@
 .navbar .nav-item {
   padding-right: 16px;
   padding-left: 16px;
-}
-
-@font-face {
-  font-family: "komikaps";
-  font-weight: 400;
-  font-style: normal;
-  src: url(../fonts/KomikaTitleKaps.ttf) format('truetype');
 }
 
 /* Hero area */
