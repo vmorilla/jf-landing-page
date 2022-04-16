@@ -12,15 +12,15 @@
 }
 
 .navbar .nav-item .nav-link:hover {
-    background-color: #ffc107;
-    color: black !important;
-    padding-right: 16px;
-    padding-left: 16px;
-  }
+  background-color: #ffc107;
+  color: black !important;
+  padding-right: 16px;
+  padding-left: 16px;
+}
 
 .navbar .nav-item {
-    padding-right: 16px;
-    padding-left: 16px;
+  padding-right: 16px;
+  padding-left: 16px;
 }
 
 @font-face {
@@ -28,7 +28,7 @@
   font-weight: 400;
   font-style: normal;
   src: url(../fonts/KomikaTitleKaps.ttf) format('truetype');
-} 
+}
 
 /* Hero area */
 
@@ -70,7 +70,7 @@
   font-weight: 500;
 }
 
-#hero-area h2  {
+#hero-area h2 {
   color: black !important;
 }
 
@@ -88,7 +88,7 @@
 
 #hero-area img {
   position: relative;
-  max-width:100%;
+  max-width: 100%;
 }
 
 /* Commented gifs */
@@ -120,3 +120,52 @@ i {
   color: #0d47a1;
 
 }
+
+
+/* Hero background image */
+img.bgxx {
+  /* Set rules to fill background */
+  min-height: 100%;
+  min-width: 1024px;
+
+  /* Set up proportionate scaling */
+  width: 100%;
+  height: auto;
+
+  /* Set up positioning */
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+
+@media screen and (max-width: 1024px) {
+
+  img.bgxx {
+    left: 50%;
+    margin-left: -512px;
+    /* 50% */
+  }
+}
+
+#hero-area {
+  background: url(/images/collage.png) repeat center/100% fixed;
+  -webkit-background-size: repeat 50% fixed;
+  -moz-background-size: 100% auto contain;
+  -o-background-size: 100% auto contain;
+  background-size: contain;
+}
+
+/* body:after {
+  content: " ";
+  position: fixed;
+  top: 0;
+  height: 100vh;
+  left: 0;
+  right: 0;
+  z-index: -1;
+  background: url(images/collage.png) center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+} */
