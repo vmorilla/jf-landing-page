@@ -1,5 +1,26 @@
 /* Navigation bar */
 
+.logo {
+  font-family: "JazzForge";
+  font-size: 4.5em;
+  color: #0d47a1;
+  background: linear-gradient(to right, #0d47a1 1em, black 1.35em);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.logo:nth-letter(0) {
+  color: #990066 !important;
+}
+
+
+@font-face {
+  font-family: "JazzForge";
+  font-weight: 400;
+  font-style: normal;
+  src: url(../fonts/jazzforge.ttf) format('truetype');
+}
 
 .top-bar {
   padding: 0px 0px 0px 0px !important;
