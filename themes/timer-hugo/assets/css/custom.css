@@ -2,15 +2,13 @@
 
 .logo {
   font-family: "JazzForge";
-  font-size: 4.5em;
+  font-size: 4.34em;
   color: #0d47a1;
-  background: linear-gradient(to right, #0d47a1 1em, black 1.35em);
-  -webkit-background-clip: text;
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
+  padding-top: 25px;
+  padding-bottom: 15px;
 }
 
-.logo:nth-letter(0) {
+.logo-var {
   color: #990066 !important;
 }
 

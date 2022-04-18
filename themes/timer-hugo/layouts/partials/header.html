@@ -4,35 +4,41 @@
 			<div class="col-lg-12">
 				<nav class="navbar navbar-expand-lg navbar-light bg-light">
 					<a href="{{ .Site.BaseURL }}">
-						<p class="logo">@JazzForge</p>
+						<p class="logo">@<span class="logo-var" style="letter-spacing: -3px;">J</span>azz<span
+								class="logo-var" style="letter-spacing: -2px;">F</span>orge</p>
 
-						<img src="images/header-logo-light.png" alt="{{.Site.Params.Name}}" height="70" style="margin:5px 0px">
+						<!-- <img src="images/header-logo-light.png" alt="{{.Site.Params.Name}}" height="70"
+							style="margin:5px 0px"> -->
 					</a>
-					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
+						aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
 						<span class="navbar-toggler-icon"></span>
 					</button>
 
 					<div class="collapse navbar-collapse" id="navigation">
 						<ul class="navbar-nav ml-auto">
 							{{ range site.Menus.main }}
-								{{ if .HasChildren }}
-									<li class="nav-item dropdown">
-										<a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-											{{ .Name }}
-										</a>
-										<div class="dropdown-menu">
-											{{ range .Children }}
-												<a class="dropdown-item" href="{{if .Pre}}{{site.BaseURL | absLangURL}}{{.Pre}}{{ .URL }}{{else}}{{.URL | absLangURL}}{{end}}">{{
+							{{ if .HasChildren }}
+							<li class="nav-item dropdown">
+								<a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown"
+									aria-haspopup="true" aria-expanded="false">
+									{{ .Name }}
+								</a>
+								<div class="dropdown-menu">
+									{{ range .Children }}
+									<a class="dropdown-item"
+										href="{{if .Pre}}{{site.BaseURL | absLangURL}}{{.Pre}}{{ .URL }}{{else}}{{.URL | absLangURL}}{{end}}">{{
 										.Name }}</a>
-											{{ end }}
-										</div>
-									</li>
-								{{ else }}
-									<li class="nav-item">
-										<a class="nav-link" href="{{if .Pre}}{{site.BaseURL | absLangURL}}{{.Pre}}{{ .URL }}{{else}}{{.URL | absLangURL}}{{end}}">{{
+									{{ end }}
+								</div>
+							</li>
+							{{ else }}
+							<li class="nav-item">
+								<a class="nav-link"
+									href="{{if .Pre}}{{site.BaseURL | absLangURL}}{{.Pre}}{{ .URL }}{{else}}{{.URL | absLangURL}}{{end}}">{{
 									.Name }}</a>
-									</li>
-								{{ end }}
+							</li>
+							{{ end }}
 							{{ end }}
 						</ul>
 					</div>
