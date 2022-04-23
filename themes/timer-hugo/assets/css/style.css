@@ -35,7 +35,8 @@ ul {
 }
 
 ul li {
-  list-style: none;
+  list-style: circle;
+  margin-left: 3em;
 }
 
 a:hover {
@@ -138,7 +139,7 @@ a:hover {
   background-size: cover;
   padding: 120px 0 25px 0;
   position: relative;
-  background: #02bdd5;
+  background: #990066;
   color: #fff;
 }
 
@@ -929,8 +930,8 @@ article {
   padding: 80px 0 20px;
 }
 
-.single-post .post-content {
-  padding: 40px 0;
+.single-post .row {
+  align-items: stretch;
 }
 
 .post-content blockquote p {
@@ -938,6 +939,10 @@ article {
   margin: 0 0 20px;
   font-size: 17.5px;
   border-left: 5px solid #eee;
+}
+
+.post-content p {
+  padding-left: 1em;
 }
 
 .single-post .post-content ol li,

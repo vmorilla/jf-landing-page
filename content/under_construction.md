@@ -5,14 +5,14 @@ description : "This is meta description"
 image: images/under_construction.jpg
 ---
 
-# We are working hard to get this page ready!
-## In the meantime, you can make any suggestion via [mail](mailto:info@jazzforge.com):
+# We are working to get this page ready!
+In the meantime, you can make any suggestion via [mail](mailto:info@jazzforge.com):
 
 - What would you like to see first in JazzForge?
 - Do you find anything difficult?
 - Would you like to improve something?
 
-
+We are happy to listen to your ideas.
 
 
 
