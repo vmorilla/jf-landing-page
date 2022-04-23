@@ -12,20 +12,20 @@ url     = "/"
 weight  = 1
 [[menu.main]]
 name    = "Forums"
-url     = "forums"
+url     = "under_construction"
 weight  = 2
 disabled = true
 [[menu.main]]
 name    = "Blog"
-url     = "blog"
+url     = "under_construction"
 weight  = 3
 [[menu.main]]
 name    = "Contact"
-url     = "contact"
+url     = "under_construction"
 weight  = 4
 [[menu.main]]
 name    = "About"
-url     = "about"
+url     = "under_construction"
 weight  = 5
 
 # Site Params
