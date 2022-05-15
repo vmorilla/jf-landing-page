@@ -139,3 +139,9 @@ i {
 #hero-area h1 {
   color: #0d47a1;
 }
+
+/* Post content */
+.post-content ul li {
+  list-style: circle;
+  margin-left: 3em;
+}

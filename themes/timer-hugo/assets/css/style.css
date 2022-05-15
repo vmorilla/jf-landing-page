@@ -35,8 +35,7 @@ ul {
 }
 
 ul li {
-  list-style: circle;
-  margin-left: 3em;
+  list-style: none;
 }
 
 a:hover {
