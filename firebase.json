@@ -2,6 +2,13 @@
   "hosting": {
     "public": "public",
     "predeploy": "./predeploy.sh",
+    "redirects": [
+      {
+        "source": "/app/**",
+        "destination": "/app",
+        "type": 301
+      }
+    ],
     "ignore": [
       "firebase.json",
       "**/.*",
