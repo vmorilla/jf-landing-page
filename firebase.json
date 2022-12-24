@@ -2,6 +2,12 @@
   "hosting": {
     "public": "public",
     "predeploy": "./predeploy.sh",
+    "rewrites": [
+      {
+        "source": "/app/**",
+        "destination": "/app"
+      }
+    ],
     "ignore": [
       "firebase.json",
       "**/.*",
