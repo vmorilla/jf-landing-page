@@ -7,7 +7,7 @@ theme = "timer-hugo"
 
 # Navbar Menus
 [[menu.main]]
-name    = "Jazz Forge"
+name    = "JazzForge"
 url     = "/"
 weight  = 1
 [[menu.main]]
@@ -31,7 +31,7 @@ weight  = 5
 # Site Params
 [params]
 name = "\u00AC JazzForge.com"
-home = "Home"
+home = "JazzForge"
 logo = "images/jazzforge.svg"
 dateFormat = "6 January 2006"
 # Meta data
