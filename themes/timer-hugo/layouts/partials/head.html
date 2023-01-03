@@ -1,11 +1,15 @@
 <head>
+	{{ if .Site.Params.GoogleAnalyticsID }}
+	{{ partial "analytics-gtag.html" . }}
+	{{ end }}
 	{{ "<!-- Basic Page Needs -->" | safeHTML }}
 	<meta charset="utf-8">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-	<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
+	<meta name="description"
+		content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
 	{{ with .Site.Params.author }}
-		<meta name="author" content="{{ . }}">
+	<meta name="author" content="{{ . }}">
 	{{ end }}
 	{{ hugo.Generator }}
 
@@ -42,9 +46,9 @@
 	{{ $custom := resources.Get "css/custom.css" | minify }}
 	<link rel="stylesheet" href="{{ $custom.Permalink }}" media="screen">
 	{{ if .Params.js }}
-		<script defer="defer" src="{{ .Params.js }}"></script>
+	<script defer="defer" src="{{ .Params.js }}"></script>
 	{{ end }}
 	{{ if .Params.css }}
-		<link rel="stylesheet" href="{{ .Params.css }}">
+	<link rel="stylesheet" href="{{ .Params.css }}">
 	{{ end }}
 </head>

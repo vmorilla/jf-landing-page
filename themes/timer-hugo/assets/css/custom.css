@@ -145,3 +145,16 @@ i {
   list-style: circle;
   margin-left: 3em;
 }
+
+/* For images in instructions */
+figure:hover img {
+  transform: scale3d(1, 1, 1);
+}
+
+figure img {
+  transform: scale3d(0.95, 0.95, 1);
+}
+
+.img-wrapper {
+  background-color: lightgray;
+}

@@ -1,13 +1,12 @@
 ---
-title: "Visualize in your instrument"
+title: "Visualize your fretboard"
 type: instructions
-date: 2018-07-12T16:59:54+06:00
+date: 2022-12-29T16:59:54+06:00
 description : "This is meta description"
-caption: Search songs in forums or open your own collection
-image: images/instructions/item-6.jpg
-category: ["instructions","ireal","songs"]
+caption: See chord and scale notes along your fretboard. Choose different options to practice (triads, guide tones...)
+image: images/instructions/visualize-fretboard.png
+category: ["instructions","fretboard","visualize"]
 ---
-### Consectur in Bibendum
 
 Totam rem aperiam eaque ipsa quae illo inventore veritatis et quasi architebetea.vitae dicta sunt explicabo. nemo enim ipsam volup as tatem quia voluptassit aspernatur.aut odit aut fugit sed quia consequuntur magni dolores eo ratione voluptatem.sequi nesciunt neque porro quisquam est dolorem ipsum quia dolor amet consectetur adipisci velit. lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 

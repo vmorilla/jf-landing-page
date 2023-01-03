@@ -1,11 +1,12 @@
 ---
 title: "Identify scales"
 type: instructions
-date: 2018-07-12T16:59:54+06:00
+date: 2022-12-30T16:59:54+06:00
 description : "This is meta description"
-caption: Search songs in forums or open your own collection
-image: images/instructions/item-2.jpg
-category: ["instructions","ireal","songs"]
+caption: Add the scales that correspond to the chords of the song
+image: images/instructions/identify-chord-scales.jpg
+video: images/instructions/import_ireal.gif
+category: ["instructions","scales"]
 ---
 ### Consectur in Bibendum
 
