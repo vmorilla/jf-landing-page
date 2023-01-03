@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+<section class="global-page-header">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<div class="block">
+					<h2>{{ .Title }}</h2>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="single-post">
+	<div class="container">
+		<div class="row">
+
+			<div class="post-content">
+				{{ .Content }}
+			</div>
+		</div>
+</section>
+
+{{ end }}

@@ -35,10 +35,10 @@ home = "JazzForge"
 logo = "images/jazzforge.svg"
 dateFormat = "6 January 2006"
 # Meta data
-description = "Jazz Forge landing page"
+description = "JazzForge landing page"
 author = "Víctor Morilla"
 # Google Analitycs
-googleAnalitycsID = "Your ID"
+googleAnalitycsID = "G-8BN18D3M72"
 # contact form action
 contactFormAction = "#" # contact form works with https://formspree.io
 
@@ -47,7 +47,7 @@ contactFormAction = "#" # contact form works with https://formspree.io
 enable  = true
 bgImage = "images/collage.png"
 heading = "Become a better musician"
-description = "Jazz Forge helps you to develop your improvisation skills. And it is completely free!"
+description = "JazzForge helps you to develop your improvisation skills. And it is completely free!"
 # button
 btn     = false
 btnText = "GET STARTED"
@@ -65,7 +65,7 @@ title   = "SHARE"
 # Homepage About Section
 [params.about]
 enable  = true
-title   = "About Jazz Forge"
+title   = "About JazzForge"
 content = "..."
 image   = "images/about/about.png"
 
@@ -81,7 +81,7 @@ btnURL  = "https://jazzforge.com/app"
 [params.instructions]
 enable  = true
 title   = "Easy to use"
-subtitle= "Jazz Forge is simple and intuitive. Get your job done in a few minutes and spend your time practising with your instrument."
+subtitle= "JazzForge is simple and intuitive. Get your job done in a few minutes and spend your time practising with your instrument."
 
 # social icon
 [[params.socialIcon]]
