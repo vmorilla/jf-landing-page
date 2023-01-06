@@ -18,7 +18,7 @@
 				<figure class="wow fadeInLeft animated instructions-item" data-wow-duration="500ms"
 					data-wow-delay="{{ $delay }}ms">
 					<div class="img-wrapper">
-						<a href="{{ .Permalink }}"><img id="instimg-{{ $index }}" src="{{ .Params.Image | relURL }}"
+						<a href="{{ .RelPermalink }}"><img id="instimg-{{ $index }}" src="{{ .Params.Image | relURL }}"
 								class="img-fluid" alt="{{ .Title }}"
 								onmouseover="setsrc(this, '{{ .Params.Video | relURL }}');"
 								onmouseout="setsrc(this, '{{ .Params.Image | relURL }}');" /></a>
@@ -30,7 +30,7 @@
 					</div>
 					<figcaption>
 						<h4>
-							<a href="{{ .Permalink }}">
+							<a href="{{ .RelPermalink }}">
 								{{ .Title }}
 							</a>
 						</h4>

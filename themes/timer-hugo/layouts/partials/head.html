@@ -1,5 +1,5 @@
 <head>
-	{{ if .Site.Params.GoogleAnalyticsID }}
+	{{ if isset .Site.Params "googleanalyticsid" }}
 	{{ partial "analytics-gtag.html" . }}
 	{{ end }}
 	{{ "<!-- Basic Page Needs -->" | safeHTML }}

@@ -38,7 +38,7 @@ dateFormat = "6 January 2006"
 description = "JazzForge landing page"
 author = "Víctor Morilla"
 # Google Analitycs
-googleAnalitycsID = "G-8BN18D3M72"
+googleAnalyticsID = "G-MWY6K9HYQP"
 # contact form action
 contactFormAction = "#" # contact form works with https://formspree.io
 
@@ -81,7 +81,7 @@ btnURL  = "https://jazzforge.com/app"
 [params.instructions]
 enable  = true
 title   = "Easy to use"
-subtitle= "JazzForge is simple and intuitive. Get your job done in a few minutes and spend your time practising with your instrument."
+subtitle= "JazzForge is simple and intuitive. Take advantage of thousands of standards publicly available and invest more time practising with your instrument."
 
 # social icon
 [[params.socialIcon]]
