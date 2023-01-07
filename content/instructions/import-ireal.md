@@ -1,5 +1,5 @@
 ---
-title: "Open iRealPro songs"
+title: "Import iRealPro songs"
 type: instructions
 date: 2022-12-31T16:59:54+06:00
 description : "Import iRealPro songs"
@@ -9,15 +9,21 @@ video: images/instructions/import_ireal.gif
 category: ["instructions","ireal","songs"]
 ---
 
-Totam rem aperiam eaque ipsa quae illo inventore veritatis et quasi architebetea.vitae dicta sunt explicabo. nemo enim ipsam volup as tatem quia voluptassit aspernatur.aut odit aut fugit sed quia consequuntur magni dolores eo ratione voluptatem.sequi nesciunt neque porro quisquam est dolorem ipsum quia dolor amet consectetur adipisci velit. lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+With JazzForge you can open your iReal Pro files or browse through thousands of themes publicly available on the internet.
 
-![Opening iReal](/images/instructions/open_ireal.gif)
+## Browse publicly available charts
+![Opening iReal](/images/instructions/import_ireal.gif#floatright)
+Just click on the app menu (☰) and chose "Import iReal Pro song...". In the search bar start typing the name of the song you want to open. Click once on any of the titles available to preview the song and then click the "Open" button.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim est laborum. Sed ut perspiciatis unde omnis iste natus. error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+JazzForge browses through the content of the [main iReal Pro playlists](https://www.irealpro.com/main-playlists), which contain a compilation of the most important chord charts available in the forums. These include Jazz, Brazilian, Latin, Blues, Pop and Country chord charts.
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt labore et dolore magna aliqua. ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.
+## Open a song published in iReal Pro forums
+![Import from forums](/images/instructions/import-from-forum.gif#floatright)
+Sometimes, the song you want to view is not available in the main playlists of iReal Pro, however, it is very likely someone has worked on it and has published in the forums. If so, just open your browser, go to [iReal Pro forums](https://www.irealb.com/forums/forum.php) and look for the title you are interested in. You should find a link that starts with "ireal://". Copy the link and go back to JazzForge and click on "Import iReal Pro song...". In the search bar, paste the link you have copied. The song or collection you have copied should show up in the dialog box. Just click on the title to preview the song and then on the "Open" button.
 
-Consequuntur magni dolores ratione voluptatem.sequi nesciunt neque porro quisquam est dolorem ipsum quia dolor sit amet consectetur adipisci velit.lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat.
+In the video to the left, you can see how you can open the chord chart of the song "For a Thousand Years" of the great Pat Metheny.
 
-Reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident. sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus.
+## Open a song edited with iReal Pro
+![Import from forums](/images/instructions/import-ireal-app.gif#floatright)
 
+You can also import songs directly edited in iReal Pro by exporting in iReal Pro format: this menu command produces an html file that, when opened, includes a link that you can copy and use in JazzForge. Go to "Import iReal Pro song..." in JazzForge and, in the search bar, paste the link you have copied. The song you have copied should show up in the dialog box. Just click on the title to preview the song and then click on the "Open" button. 

@@ -158,3 +158,25 @@ figure img {
 .img-wrapper {
   background-color: lightgray;
 }
+
+/* For images in instructions content */
+img[src$='#floatleft'] {
+  float: left;
+  max-width: 50%;
+}
+
+img[src$='#floatright'] {
+  float: right;
+  max-width: 50%;
+  margin-left: 50px;
+  margin-bottom: 50px;
+}
+
+h2 {
+  clear: both;
+}
+
+.post-content>h2 {
+  margin-left: 16px;
+  margin-top: 50px;
+}
