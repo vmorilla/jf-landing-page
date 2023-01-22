@@ -77,7 +77,21 @@
 }
 
 #hero-area h2 {
-  color: black !important;
+  color: rgba(0, 0, 0, 0.724) !important;
+  text-transform: none;
+  font-style: italic;
+}
+
+#hero-area h2>p {
+  font-size: 20px;
+}
+
+.section-heading p {
+  font-size: 16px;
+}
+
+figure>figcaption>p {
+  font-size: 16px;
 }
 
 /*  Button in hero area */

@@ -5,6 +5,4 @@ description : "JazzForge homepage"
 js: /js/signin.js
 css: /css/signin.css
 ---
-**Jazz Forge** helps you develop your improvisation skills. 
-
-And it is completely **free!**
+Unlock the full potential of your **improvisational skills** with JazzForge, a **free tool** designed to guide you on your journey to mastering jazz music...

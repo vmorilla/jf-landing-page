@@ -2,13 +2,14 @@
 title: "Identify scales"
 type: instructions
 date: 2022-12-30T16:59:54+06:00
-description : "This is meta description"
+description : "Pair scales with chords"
 caption: Add the scales that correspond to the chords of the song
-image: images/instructions/identify-chord-scales.jpg
-video: images/instructions/import_ireal.gif
+image: images/instructions/identify-chord-scales.png
+video: images/instructions/identify-chord-scales.gif
 category: ["instructions","scales"]
 ---
-### Consectur in Bibendum
+
+You can add the scales that correspond to the chords in the harmony of your theme. For that, 
 
 Totam rem aperiam eaque ipsa quae illo inventore veritatis et quasi architebetea.vitae dicta sunt explicabo. nemo enim ipsam volup as tatem quia voluptassit aspernatur.aut odit aut fugit sed quia consequuntur magni dolores eo ratione voluptatem.sequi nesciunt neque porro quisquam est dolorem ipsum quia dolor amet consectetur adipisci velit. lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 

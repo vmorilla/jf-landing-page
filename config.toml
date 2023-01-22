@@ -47,7 +47,7 @@ contactFormAction = "#" # contact form works with https://formspree.io
 enable  = true
 bgImage = "images/collage.png"
 heading = "Become a better musician"
-description = "JazzForge helps you to develop your improvisation skills. And it is completely free!"
+description = "Unleash your improvisational potential for free with Jazz Forge."
 # button
 btn     = false
 btnText = "GET STARTED"
