@@ -3,7 +3,7 @@ title: "Multiple instruments"
 type: instructions
 date: 2018-07-12T16:59:54+06:00
 description : "This is meta description"
-caption: Search songs in forums or open your own collection
+caption: JazzForge is not limited to guitar. Practice with your bass, ukelele, banjo... and with different tunings!
 image: images/instructions/item-4.jpg
 category: ["instructions","instrument","guitar"]
 ---
