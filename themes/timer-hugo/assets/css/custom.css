@@ -186,6 +186,17 @@ img[src$='#floatright'] {
   margin-bottom: 50px;
 }
 
+
+img[src$='#inline'] {
+  display: inline-block;
+  max-height: 1.2em;
+}
+
+img[src$='#inlinebig'] {
+  display: inline-block;
+  max-height: 2em;
+}
+
 h2 {
   clear: both;
 }

@@ -26,3 +26,5 @@ The representation of notes in the fretboard (in *edit mode*), goes like this:
 You can also add scales by chosing its individual notes in the fretboard. Make sure the chord / scale selector is set to "scale" and click the notes in the fretboard.
 
 ![Chord scale selector](/images/instructions/chord-scale-selector.png)
+
+

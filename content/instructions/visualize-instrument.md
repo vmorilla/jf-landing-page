@@ -2,19 +2,19 @@
 title: "Visualize your fretboard"
 type: instructions
 date: 2022-12-29T16:59:54+06:00
-description : "This is meta description"
-caption: See chord and scale notes along your fretboard. Choose different options to practice (triads, guide tones...)
+description : "Visualize your fretboard"
+caption: See chord and scale notes along your fretboard. Choose between different options (triads, guide tones...)
 image: images/instructions/visualize-fretboard.png
-category: ["instructions","fretboard","visualize"]
+video: images/instructions/visualize-fretboard.gif
+category: ["instructions","scales","chords","fretboard"]
 ---
 
-Totam rem aperiam eaque ipsa quae illo inventore veritatis et quasi architebetea.vitae dicta sunt explicabo. nemo enim ipsam volup as tatem quia voluptassit aspernatur.aut odit aut fugit sed quia consequuntur magni dolores eo ratione voluptatem.sequi nesciunt neque porro quisquam est dolorem ipsum quia dolor amet consectetur adipisci velit. lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+![Selecting scales](/images/instructions/visualize-fretboard.gif#floatright)
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim est laborum. Sed ut perspiciatis unde omnis iste natus. error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+JazzForge has three edit modes: edit, view and play. The view mode provides different choices to visualize notes in your fretboard that you can use to practice different exercises. 
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt labore et dolore magna aliqua. ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.
+First, select the view mode by clicking the ![view](/images/instructions/view-icon.png#inline) icon in the mode selector bar ![view mode](/images/instructions/view-mode.png#inlinebig)(top left area of the screen). 
 
-Consequuntur magni dolores ratione voluptatem.sequi nesciunt neque porro quisquam est dolorem ipsum quia dolor sit amet consectetur adipisci velit.lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat.
+You will see a new toolbar ![note group selector](/images/instructions/note-group-selector.png#inline) at the top right where you can associate different groups of notes to the symbols ![diamond](/images/instructions/diamond-icon.png#inline) and ![circle](/images/instructions/circle-icon.png#inline). Such group notes will be highlighted in the fretboard with the corresponding symbol. 
 
-Reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident. sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus.
-
+For instance, you can highlight the *guide tones* (the 3rd and the 7th grades) with the diamond symbol and hide the rest of the notes (select "Empty" for the circle symbol). Or you could highlight triads and see the rest of the notes of the scale in a circle. Try different options and see different kind of exercises you can practices.
