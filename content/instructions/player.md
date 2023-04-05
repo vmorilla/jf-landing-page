@@ -3,7 +3,7 @@ title: "Practice with the player"
 type: instructions
 date: 2018-07-12T16:59:54+06:00
 description : "This is meta description"
-caption: Search songs in forums or open your own collection
+caption: The player is work in progress, but you can already practice with it.
 image: images/instructions/item-5.jpg
 category: ["instructions","ireal","songs"]
 ---
